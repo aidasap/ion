@@ -26,7 +26,7 @@ ___
 :ballot_box_with_check: Privacy Preserving (soon)  
 ~~:x: self aware~~
 
-IDEP is an open source blockchain dedicated to digital lifestyle use cases. Its created to track digital and physical assets and engage real world communities with the help of blockchain technology.
+IDEP is an open source blockchain dedicated to digital lifestyle use cases. Its created to track & secure digital and physical assets and engage real world communities with the help of blockchain technology.
 
 <br>
 
