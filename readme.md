@@ -51,8 +51,8 @@ IDEP Network is secured by the network token $IDEP which is used for fees, staki
 :radio_button: Min Inflation: 7%
 
 
-
-
+<br>
+<br>
 ### Boring Legal Stuff (DISCLAIMER)
 ---
 
