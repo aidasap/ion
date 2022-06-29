@@ -53,6 +53,7 @@ IDEP Network is secured by the network token $IDEP which is used for fees, staki
 
 <br>
 <br>
+
 ### Boring Legal Stuff (DISCLAIMER)
 ---
 
